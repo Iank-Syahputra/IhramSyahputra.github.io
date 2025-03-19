@@ -1,0 +1,8 @@
+*{
+    font-family: 'Poppins';
+}
+
+:root{
+    background: hsl(0, 2%, 10%);
+    /* --second-background : black */
+}
