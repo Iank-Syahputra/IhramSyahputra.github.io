@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Belajar"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Pengelolaan Citra Digital/Kelompok4-PCD"
+		},
+		{
+			"path": "../../Pengelolaan Citra Digital/uho-citra-digital"
+		},
+		{
+			"path": "../../Pemrograman Berbasis Object"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"JAVA/00-Template/src/method",
+			"JAVA/00Template/src/method"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		],
+		"liveServer.settings.multiRootWorkspaceName": "IhramSyahputra.github.io"
+	}
+}
